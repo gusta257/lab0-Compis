@@ -1,0 +1,11 @@
+class Program{
+    void main(){
+        int a;
+        int cont;
+        cont = 0;
+        for cont, cont = 10
+        {
+            cont += 1;
+        }
+    }
+}

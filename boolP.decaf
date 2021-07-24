@@ -1,0 +1,13 @@
+class Program{
+    void main(){
+        boolean a;
+        int res;
+        a = True;
+        cont = 0;
+        if (a == True){
+            res = 0;
+        }else{
+            res = 1;
+        }
+    }
+}
