@@ -4,6 +4,9 @@ Ejecutar con:
 ```
 antlr4 Decaf.g4
 javac Decaf*.java
+```
+Cambiar "test" por el archivo deseado a probar
+```
 grun Decaf program -gui test.decaf
 ```
 # PRUEBA BOOL
